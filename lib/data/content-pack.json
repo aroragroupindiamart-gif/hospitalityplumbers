@@ -1,55 +1,71 @@
 {
   "intro": [
-    "When you need {kw} in {cityName}, you need a trusted professional who responds fast. Our licensed {nichePluralLower} are ready 24 hours a day, 7 days a week.",
-    "{cityName} residents rely on {brandName} for dependable {kw}. Our certified {nichePluralLower} serve the entire {cityName} area with same-day service available.",
-    "Don't let a {nicheLower} problem disrupt your life. Our {cityName} {kw} specialists have the tools and experience to resolve any issue quickly — the first time.",
-    "For {kw} in {cityName}, our team of licensed, insured {nichePluralLower} brings years of hands-on experience and guaranteed workmanship to every job."
+    "Rooted right here in {cityName}, {brandName} delivers genuine neighborhood care, honest craftsmanship, and dependable {kw}.",
+    "Your local {cityName} community plumbers are ready to help—enjoy warm hospitality and expert {kw} from technicians who know your area.",
+    "Serving our fellow {cityName} residents with pride, {brandName} combines neighborhood values with professional mechanical excellence.",
+    "For dependable {kw} from a local team that understands your neighborhood's unique water table and pipe history, trust {brandName}.",
+    "We treat every {cityName} customer like family, delivering courteous, high-integrity {kw} that stands the test of time.",
+    "When you need reliable {kw} in {cityName}, call the hometown specialists who live, work, and raise families in your community."
   ],
   "body1": [
-    "Our {cityName} {nichePluralLower} bring years of hands-on experience in {kw}. Every technician is fully licensed, insured, and background-checked. We use professional-grade equipment to ensure lasting results.",
-    "For {kw} in {cityName}, no job is too big or too small. We handle everything from routine maintenance to complex emergency repairs, always delivering the highest standard of workmanship.",
-    "{brandName} has built a reputation in {cityName} by providing honest, transparent {kw} at fair prices. We give upfront quotes with no hidden fees, and our technicians explain every step before they begin work.",
-    "When it comes to {kw} in {cityName}, our crew arrives on time, respects your property, and cleans up completely before leaving. All work is backed by a written guarantee."
+    "As longtime members of the {cityName} community, we are deeply familiar with the localized plumbing challenges that affect homes in this region.",
+    "From mineral-heavy hard water scaling in older developments to shifting soil conditions affecting sewer lines, our {cityName} expertise runs deep.",
+    "We understand local municipal water ordinances, permit regulations, and conservation standards inside and out, ensuring flawless compliance on every job.",
+    "Our technicians arrive with a smile, shoe covers, and a genuine desire to be helpful—bringing old-fashioned neighborly hospitality to every service call.",
+    "We source high-durability plumbing fixtures and pipe fittings specifically chosen to withstand local water chemistry and climate variations in {cityName}.",
+    "Because our reputation in {cityName} is our most valuable asset, we hold ourselves to the highest ethical standards of honesty, fairness, and cleanliness."
   ],
   "body2": [
-    "Whether you're dealing with an urgent situation or planning a scheduled {kw} project in {cityName}, we make the process easy. Call us any time, day or night.",
-    "Our {kw} services in {cityName} are backed by a workmanship warranty. We stand behind every job, ensuring you have peace of mind long after our technicians leave.",
-    "When you choose {brandName} for {kw} in {cityName}, you're choosing a team that treats your property like their own. We clean up after every job and minimize disruption.",
-    "{cityName} residents trust us for {kw} because we show up on time, price jobs fairly, and never cut corners. Call {phoneNumber} to schedule service."
+    "Supporting local homeowners is our core mission. We are proud to be the trusted plumbing team recommended over backyard fences throughout {cityName}.",
+    "Every {kw} repair and replacement we perform in {cityName} comes backed by our generous hometown warranty and our personal commitment to your satisfaction.",
+    "We clean up thoroughly after our work, leaving your kitchen, bathroom, or utility room even cleaner than we found it.",
+    "Our fair, neighborhood-friendly pricing reflects our belief that every family in {cityName} deserves safe, reliable plumbing without financial stress.",
+    "Experience true local hospitality on your next plumbing project—call our friendly {cityName} office at {phoneNumber} today.",
+    "From fixing dripping faucets to repiping aging residences, {brandName} is proud to keep {cityName} flowing smoothly."
   ],
   "trustBulletSets": [
     [
-      "Fully licensed and insured {kw} technicians",
-      "24/7 emergency response — no extra charge for nights or weekends",
-      "Upfront, transparent pricing — no hidden fees",
-      "All work backed by our workmanship guarantee",
-      "Locally trusted in {cityName}"
+      "Locally Owned & Community Rooted",
+      "Deep Familiarity with {cityName} Homes",
+      "Courteous, Neighborly Technicians",
+      "Pristine Cleanliness Guaranteed",
+      "Honest, Fair Hometown Pricing"
     ],
     [
-      "Same-day {kw} service available in {cityName}",
-      "Background-checked technicians — safe for your home and family",
-      "Free estimates on major jobs",
-      "We use only quality, code-compliant materials",
-      "Eco-friendly options available upon request"
+      "Specialized in Local Water Conditions",
+      "Strict Municipal Code Compliance",
+      "Family-Safe, Vetted Professionals",
+      "Comprehensive Local Warranty",
+      "Fast Response Across All Neighborhoods"
     ],
     [
-      "Rapid response — most jobs dispatched within the hour",
-      "{cityName} residents have trusted us for years",
-      "Expert {kw} diagnosis — right the first time",
-      "Flexible appointment times including evenings and weekends",
-      "Fully equipped for on-the-spot repairs"
+      "Treating Your Home Like Our Own",
+      "High-Grade Durable Materials",
+      "Clear Explanations & Friendly Advice",
+      "No Surprise Charges or Hidden Fees",
+      "Proudly Recommended by Neighbors"
+    ],
+    [
+      "Decades of Local Plumbing Heritage",
+      "Eco-Conscious Water Saving Options",
+      "Prompt Emergency Assistance",
+      "Complete Respect for Your Living Space",
+      "Call Your Local Crew at {phoneNumber}"
     ]
   ],
   "faqCostAnswers": [
-    "The cost of {kw0} in {cityName} varies based on the scope of work. We provide free estimates on all major jobs and upfront quotes before any work begins. Call {phoneNumber} for a quote.",
-    "Pricing for {kw0} in {cityName} depends on factors like the severity and access required. We offer competitive, transparent pricing. Call us at {phoneNumber} for an accurate estimate."
+    "As your local {cityName} plumbers, we offer honest, competitive rates tailored to our community. We evaluate {kw0} on-site and provide an upfront quote before starting. Call {phoneNumber} for neighborly pricing.",
+    "We take pride in fair, transparent pricing with no hidden costs for {kw0} in {cityName}. Speak directly with our friendly office staff at {phoneNumber} for an honest estimate.",
+    "Our neighborhood rates for {kw0} are designed to provide top-quality craftsmanship at prices {cityName} families can rely on. Connect with us at {phoneNumber}."
   ],
   "faqArrivalAnswers": [
-    "For emergency {kw1} calls in {cityName}, we typically dispatch a technician within 30–60 minutes. For scheduled appointments, we offer same-day and next-day availability.",
-    "Our {cityName} {nichePluralLower} are strategically located for fast response. Emergency calls are typically answered within the hour."
+    "Because our technicians live and work throughout {cityName}, we can often provide same-day service and quick dispatch to your neighborhood.",
+    "We provide reliable 2-hour arrival windows and always give you a friendly call when our service van is heading your way in {cityName}.",
+    "When sudden leaks threaten your home, our local proximity allows us to respond promptly to emergency calls across {cityName}."
   ],
   "faqBeforeArrivalAnswers": [
-    "For most service calls, just ensure the technician can access the work area. If there is an active problem, try to isolate it to minimize damage. Our dispatcher can walk you through any emergency steps.",
-    "Clear the work area so our technician has room to work safely. Our dispatcher can walk you through any emergency steps when you call {phoneNumber}."
+    "Just make sure there is a clear walking path to the work area. Don't worry about tidying up—we'll take care of all protective prep and cleanup!",
+    "If water is actively leaking, turning off your local fixture valve or main water shutoff helps minimize water spread until our team arrives.",
+    "Feel free to greet our technician and let us know about any specific household considerations, such as sleeping pets or work-from-home calls."
   ]
 }
